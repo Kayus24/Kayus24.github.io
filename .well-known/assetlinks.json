@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.kgg.admin",
+      "sha256_cert_fingerprints": [
+        "FA:E0:EE:E0:21:92:F3:27:F6:E9:48:96:53:58:E7:70:C5:9C:8B:3B:24:2D:77:E5:90:F1:E7:B5:1A:B4:E8:C6"
+      ]
+    }
+  }
+]
